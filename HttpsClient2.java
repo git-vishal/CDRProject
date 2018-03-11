@@ -97,9 +97,6 @@ public class HttpsClient2 {
 				e.printStackTrace();
 			}
 		}
-		
-		else {
 
-	}
 	}
 }
